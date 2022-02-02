@@ -1,1 +1,2 @@
-"hello,ODIK"
+x="hello,ODIK"
+print(x)
